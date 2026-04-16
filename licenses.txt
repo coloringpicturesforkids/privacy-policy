@@ -2376,6 +2376,12 @@
 │  ├─ repository: https://github.com/expo/expo
 │  ├─ path: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\expo-server
 │  └─ licenseFile: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\expo-server\README.md
+├─ expo-sharing@14.0.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expo/expo
+│  ├─ publisher: 650 Industries, Inc.
+│  ├─ path: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\expo-sharing
+│  └─ licenseFile: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\expo-sharing\README.md
 ├─ expo-splash-screen@31.0.13
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/expo/expo
@@ -2568,9 +2574,10 @@
 │  ├─ path: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\fresh
 │  └─ licenseFile: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\fresh\LICENSE
 ├─ frontend_test@1.0.0
-│  ├─ licenses: [1m[31mUNLICENSED[39m[22m
+│  ├─ licenses: UNLICENSED
 │  ├─ private: true
-│  └─ path: C:\Users\Test\IdeaProjects\Frontend_Test
+│  ├─ path: C:\Users\Test\IdeaProjects\Frontend_Test
+│  └─ licenseFile: C:\Users\Test\IdeaProjects\Frontend_Test\README.md
 ├─ fs-extra@8.1.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/jprichardson/node-fs-extra
@@ -5208,3 +5215,4 @@
    ├─ url: https://sindresorhus.com
    ├─ path: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\yocto-queue
    └─ licenseFile: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\yocto-queue\license
+
