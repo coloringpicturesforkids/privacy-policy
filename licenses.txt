@@ -697,7 +697,7 @@
 │  ├─ repository: https://github.com/expo/expo
 │  ├─ path: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\@expo\image-utils
 │  └─ licenseFile: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\@expo\image-utils\LICENSE
-├─ @expo/json-file@10.0.8
+├─ @expo/json-file@10.0.13
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/expo/expo
 │  ├─ path: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\@expo\json-file
@@ -1544,7 +1544,7 @@
 │  ├─ url: http://juliangruber.com
 │  ├─ path: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\rimraf\node_modules\brace-expansion
 │  └─ licenseFile: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\rimraf\node_modules\brace-expansion\LICENSE
-├─ brace-expansion@5.0.3
+├─ brace-expansion@5.0.5
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/juliangruber/brace-expansion
 │  ├─ path: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\brace-expansion
@@ -2573,11 +2573,6 @@
 │  ├─ url: http://tjholowaychuk.com
 │  ├─ path: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\fresh
 │  └─ licenseFile: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\fresh\LICENSE
-├─ frontend_test@1.0.0
-│  ├─ licenses: UNLICENSED
-│  ├─ private: true
-│  ├─ path: C:\Users\Test\IdeaProjects\Frontend_Test
-│  └─ licenseFile: C:\Users\Test\IdeaProjects\Frontend_Test\README.md
 ├─ fs-extra@8.1.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/jprichardson/node-fs-extra
@@ -4854,6 +4849,12 @@
 │  ├─ repository: https://github.com/jshttp/type-is
 │  ├─ path: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\type-is
 │  └─ licenseFile: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\type-is\LICENSE
+├─ typescript@5.9.3
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/microsoft/TypeScript
+│  ├─ publisher: Microsoft Corp.
+│  ├─ path: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\typescript
+│  └─ licenseFile: C:\Users\Test\IdeaProjects\Frontend_Test\node_modules\typescript\LICENSE.txt
 ├─ ua-parser-js@1.0.41
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/faisalman/ua-parser-js
